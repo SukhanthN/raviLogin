@@ -1,3 +1,2 @@
 HELLO ALL 
-Hello friends 
-HELLO ALL
+Hello friends
